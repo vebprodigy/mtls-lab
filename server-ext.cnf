@@ -1,7 +1,0 @@
-[v3_ext]
-basicConstraints = CA:FALSE
-keyUsage = critical,digitalSignature,keyEncipherment
-extendedKeyUsage = critical,serverAuth
-subjectAltName = DNS:localhost,DNS:127.0.0.1,DNS:server.local
-subjectKeyIdentifier = hash
-authorityKeyIdentifier = keyid:always,issuer:always

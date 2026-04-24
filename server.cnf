@@ -1,6 +1,0 @@
-[req]
-distinguished_name = req_distinguished_name
-req_extensions = v3_req
-[req_distinguished_name]
-[v3_req]
-subjectAltName = DNS:localhost,DNS:127.0.0.1,DNS:server.local
