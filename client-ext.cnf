@@ -1,0 +1,6 @@
+[v3_ext]
+basicConstraints = CA:FALSE
+keyUsage = critical,digitalSignature
+extendedKeyUsage = critical,clientAuth
+subjectKeyIdentifier = hash
+authorityKeyIdentifier = keyid:always,issuer:always
